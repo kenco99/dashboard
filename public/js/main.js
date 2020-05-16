@@ -102,7 +102,7 @@ $(function () {
         borderWidth: 2,
         showLine: true,
       }, {
-        label: "Success",
+        label: "Succes",
         fill: false,
         lineTension: 0,
         startAngle: 2,
